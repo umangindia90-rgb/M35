@@ -1,0 +1,1 @@
+-keep class com.motog35.dynamicisland.** { *; }
